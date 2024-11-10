@@ -1,0 +1,16 @@
+{
+    "name": "minhbitong/playful-outside-web-demo",
+    "description": "Playful outside web demo is my first official website",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MinhBiTong"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "firebase/php-jwt": "^6.10",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
